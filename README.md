@@ -1,2 +1,5 @@
 # Algoritmo-y-Estructura-de-Datos
-# Tomas
+# Curso: K1051
+# Año 2020
+# Legajo: 172.548-8
+# Quintana Tomas
