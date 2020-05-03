@@ -1,0 +1,16 @@
+# Etapa 1 : Analisis del problema
+## Transcripcion del problema :
+* Realizar la adicion de dos numeros enteros ingresados por  el usuario y mostrar el resultado por pantilla*
+
+## Refinamiento del problema e Hipótesis de trabajo :
+*Se le pide al usuario  que ingrese  dos valores enteros mediante la funcion  cin luego el resultado es arrojado por pantalla mediante la funcion cout*
+
+## Modelo Ipo :
+
+
+#Etapa  2:  Diseño de la solucion
+## Lexico del algoritmo :
+*Se ingresan dos variables de tipo entera y se muestra por pantalla el resultado de la suma de dichas variables que da un resultado entero.*
+## Representacion de un algoritmo :
+### Representacion visual :
+### Represntacion textual :
