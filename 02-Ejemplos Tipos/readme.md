@@ -1,0 +1,12 @@
+-#El trabajo "02-Ejemplos Tipos" consite en armar un porgrama en el cual se usen los tipos de datos basicos:-#
+-1.Bool.
+-2.Char.
+-3.unsigned.
+-4.Int.
+-5.Double.
+-6.String.
+-#El programa que yo arme  toma valores Int,Dou. ble,String,Bool y unsigned-#.-#El programa que yo arme consiste en-#
+-#darle una valor declarado a al programa para que evalue si dicho valor es mayor o menos que cierto valores declaros por mi al-#
+-# comienzo del programa.
+-**Restriccion del programa**-
+-1. No se podia ingresar datos desde el teclado.
