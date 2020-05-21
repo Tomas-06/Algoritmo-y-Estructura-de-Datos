@@ -1,4 +1,4 @@
-# **  02-Ejemplos Tipos**
+# Trabajo "02-Ejemplos  de valores y operaciones de tipo de  datos"
 El trabajo "02-Ejemplos Tipos" consiste en armar un programa  en el cual se usan los tipos de datos  basicos :
 1.Booleano.
 2.Char.
