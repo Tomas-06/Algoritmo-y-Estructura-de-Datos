@@ -1,2 +1,12 @@
-#Etapa 1: Analisis del Problema
-
+# Etapa#1:Analisis del Problema
+## Transcripciones del Problema
+Generar un programa que analise si un año es bisiesto.
+## Refinamiento e Hipotesis del Problema
+Las condiciones para que el año sea bisiesto son que : el año debe ser divisible por 4,no debe
+ser divisle por 100 y  debe ser divisible por 400.
+# Etapa #2: Diseño de Solucion
+## En este programa nose ingresaran datos por teclado ni tampoco se mostraran resultados por pantalla.
+Se usa la Funcion IsBisiesto en la cual se toman datos enteros para que te devuelva  una variable de tipo
+bool.
+## Lexico
+[Imagen](https://www.google.com/search?q=insertar+imagenes+en+markdown&rlz=1C1OKWM_enAR885AR885&oq=insertar+imageners+en+ma&aqs=chrome.1.69i57j0l7.11991j1j7&sourceid=chrome&ie=UTF-8) 
