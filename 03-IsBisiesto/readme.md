@@ -12,6 +12,6 @@ El programa consiste usar la funcion IsBisiesto  la cual tiene  como dominio los
 y devuelve como imagen un bool( es 1 si el valor es verdadero  o cero si el valor es falso).
 En este programa no se ingresan  datos por teclado ni tampoco se muestran valores en pantalla.
 ##  Lexico
-![Imagen](https://www.google.com/search?q=funcion+bisiesto&rlz=1C1OKWM_enAR885AR885&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiCqbfc6PnpAhUlJrkGHZiJBqoQ_AUoAXoECAwQAw&biw=2048&bih=1041#imgrc=SlcSxQ6I2yeMPM)
+![Imagen](https://github.com/Tomas-06/Algoritmo-y-Estructura-de-Datos/blob/master/Imagen/Imagen%20de%20Lexico-1.jpg)
 ## Arbol de Expresiones
 
