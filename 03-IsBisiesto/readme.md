@@ -14,4 +14,4 @@ En este programa no se ingresan  datos por teclado ni tampoco se muestran valore
 ##  Lexico
 ![Imagen](https://github.com/Tomas-06/Algoritmo-y-Estructura-de-Datos/blob/master/Imagen/Imagen%20de%20Lexico-1.jpg)
 ## Arbol de Expresiones
-
+![Imagen](https://github.com/Tomas-06/Algoritmo-y-Estructura-de-Datos/blob/master/Imagen/Arbol%20de%20Expresion.jpg)
